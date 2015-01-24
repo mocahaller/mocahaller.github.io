@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[MocaHaller]]></title>
+  <link href="http://http://mocahaller.github.io/atom.xml" rel="self"/>
+  <link href="http://http://mocahaller.github.io/"/>
+  <updated>2015-01-25T01:03:42+09:00</updated>
+  <id>http://http://mocahaller.github.io/</id>
+  <author>
+    <name><![CDATA[MocaHaller]]></name>
+    
+  </author>
+
+  
+  <entry>
+    
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://mocahaller.github.io/blog/2015/01/25/"/>
+    
+    <updated>2015-01-25T00:58:28+09:00</updated>
+    <id>http://http://mocahaller.github.io/blog/2015/01/</id>
+    
+      <content type="html"><![CDATA[
+]]></content>
+      
+  </entry>
+  
+</feed>
